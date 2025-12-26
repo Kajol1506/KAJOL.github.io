@@ -318,6 +318,7 @@ header {
 }
 
 /* Projects Page */
+
 .projects-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -346,6 +347,8 @@ header {
     color: rgba(255,255,255,0.2);
     font-size: 3rem;
 }
+
+
 
 .project-content {
     padding: var(--spacing-md);
